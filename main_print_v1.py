@@ -1,5 +1,5 @@
 
-name = "Alice"
+name = "Tae-sig Kim"
 age = 25
 score = 95.5
 
